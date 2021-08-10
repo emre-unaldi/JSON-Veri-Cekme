@@ -1,0 +1,119 @@
+{
+    "FILTERS": [
+      
+    ],
+    "VARIANTS": {
+      "TYPE1_LIST": [
+        
+      ],
+      "TYPE2_LIST": [
+        {
+          "ID": "43",
+          "LIST_NO": "0",
+          "NAME": "XXL",
+          "COLOR_CODE": "#d2c6c6",
+          "IMAGE": "",
+          "COUNT": 8,
+          "SELECTED": 0
+        },
+        {
+          "ID": "32",
+          "LIST_NO": "0",
+          "NAME": "XL",
+          "COLOR_CODE": "#d2c6c6",
+          "IMAGE": "",
+          "COUNT": 8,
+          "SELECTED": 0
+        },
+        {
+          "ID": "30",
+          "LIST_NO": "0",
+          "NAME": "M",
+          "COLOR_CODE": "#d2c6c6",
+          "IMAGE": "",
+          "COUNT": 8,
+          "SELECTED": 0
+        },
+        {
+          "ID": "33",
+          "LIST_NO": "0",
+          "NAME": "XS",
+          "COLOR_CODE": "#7b7ca4",
+          "IMAGE": "",
+          "COUNT": 8,
+          "SELECTED": 0
+        },
+        {
+          "ID": "31",
+          "LIST_NO": "0",
+          "NAME": "L",
+          "COLOR_CODE": "#d2c6c6",
+          "IMAGE": "",
+          "COUNT": 8,
+          "SELECTED": 0
+        },
+        {
+          "ID": "34",
+          "LIST_NO": "0",
+          "NAME": "S",
+          "COLOR_CODE": "#bd82c3",
+          "IMAGE": "",
+          "COUNT": 8,
+          "SELECTED": 0
+        }
+      ]
+    },
+    "BRANDS": [
+      {
+        "COUNT": "8",
+        "ID": "2",
+        "NAME": "Maraş Peynir A.Ş.",
+        "URL": "maras-peynir-a",
+        "SELECTED": 0
+      }
+    ],
+    "CATEGORIES": [
+      {
+        "ID": "35",
+        "NAME": "Kişisel Bakım",
+        "URL": "kisisel-bakim",
+        "COUNT": 0,
+        "SELECTED": 1,
+        "CHILDREN": [
+          {
+            "ID": "42",
+            "NAME": "Epilasyon Ürünleri",
+            "URL": "roller-kalem",
+            "COUNT": 0,
+            "SELECTED": 0
+          },
+          {
+            "ID": "46",
+            "NAME": "Ayak Bakımı",
+            "URL": "divit-kalem",
+            "COUNT": 0,
+            "SELECTED": 0
+          }
+        ],
+        "ROW_NUMBER": "2"
+      }
+    ],
+    "PRICE": {
+      "MIN": 54,
+      "MAX": 55,
+      "MIN_SELECTED": 54,
+      "MAX_SELECTED": 55
+    },
+    "MODELS": [
+      
+    ],
+    "MODELS_TOTAL": "0",
+    "SUPPLIERS": [
+      
+    ],
+    "TARGET_CURRENCY": "TL",
+    "SETTINGS": {
+      "LANGUAGE": "tr",
+      "SHOW_COUNT": false
+    }
+  }
